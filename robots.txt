@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-5zno0k.dolantogel69hel.cfd/sitemap.xml
